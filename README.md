@@ -1,2 +1,2 @@
 # TestProject
-Small Java Project
+ Java Project
